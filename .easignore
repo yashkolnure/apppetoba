@@ -1,0 +1,15 @@
+# Ignore large files and folders
+*.mp4
+*.mov
+*.avi
+*.zip
+node_modules/
+.vscode/
+android/
+ios/
+.expo/
+.expo-shared/
+assets/videos/
+assets/raw/
+.git
+*.log
